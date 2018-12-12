@@ -1,2 +1,2 @@
-# 1stproj
-My first project
+# Hello world
+The first day on github
